@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoThere</string>
+    <string name="title_activity_go_to_point">GoToPoint</string>
+
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+    <string name="button_score">Show total score</string>
+    <string name="button_goal_new">New goals</string>
+    <string name="button_goal_done">Done!</string>
+    <string name="total_score">se.runnsjo.gothere.total_score</string>
+    <string name="highscore">se.runnsjo.gothere.highscore</string>
+    <string name="current_goal_latitude">se.runnsjo.gothere.currentgoal_latitude</string>
+    <string name="current_goal_longitude">se.runnsjo.gothere.currentgoal_longitude</string>
+</resources>
